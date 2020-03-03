@@ -1,13 +1,14 @@
 {
-  "name": "rachartier.vsc-happy-hacking-theme",
-  "version": "1.0.1",
-  "description": "",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
-  "publisher": "rachartier",
+    "name": "Happy_Hacking Theme",
+    "version": "1.0.1",
+    "description": "",
+    "repository": "https://github.com/rachartier/vsc-happy-hacking-theme",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "publisher": "rachartier",
     "engines": {
         "vscode": "^1.0.0"
     },
@@ -22,5 +23,8 @@
                 "path": "./themes/vsc-happy-hacking-theme.json"
             }
         ]
+    },
+    "dependencies": {
+        "minor": "^1.2.3"
     }
 }
