@@ -7,5 +7,5 @@ Inspired by ![https://gitlab.com/yorickpeterse/happy_hacking.vim/-/tree/master](
 ### C
 ![](img/example_c.png)
 
-### C#
+### C Sharp
 ![](img/example_cs.png)
