@@ -1,4 +1,4 @@
-# vsc-firewood-theme
+# Happy_Hacking for vscode
 
 Inspired by ![https://gitlab.com/yorickpeterse/happy_hacking.vim](https://gitlab.com/yorickpeterse/happy_hacking.vim)
 
