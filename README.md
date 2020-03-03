@@ -1,6 +1,6 @@
 # Happy_Hacking for vscode
 
-Inspired by ![https://gitlab.com/yorickpeterse/happy_hacking.vim](https://gitlab.com/yorickpeterse/happy_hacking.vim)
+Inspired by ![https://gitlab.com/yorickpeterse/happy_hacking.vim/-/tree/master](https://gitlab.com/yorickpeterse/happy_hacking.vim/-/tree/master)
 
 ## Installation
 ### On Linux:
