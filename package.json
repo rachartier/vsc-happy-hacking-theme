@@ -1,5 +1,5 @@
 {
-  "name": "rachartier.vsc-firewood-theme",
+  "name": "rachartier.vsc-happy-hacking-theme",
   "version": "1.0.1",
   "description": "",
   "scripts": {
@@ -17,9 +17,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "RaphTheme",
+                "label": "Happy_Hacking",
                 "uiTheme": "vs-dark",
-                "path": "./themes/raph-theme.json"
+                "path": "./themes/vsc-happy-hacking-theme.json"
             }
         ]
     }

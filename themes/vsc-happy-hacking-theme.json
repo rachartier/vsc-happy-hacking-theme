@@ -1,0 +1,60 @@
+{
+  "name": "Happy_Hacking",
+  "type": "dark",
+  "colors": {
+    "editor.background": "#1E1E1E",
+    "editor.foreground": "#F3F2CC",
+    "editor.lineHighlightBackground": "#404040"
+  },
+  "tokenColors": [
+    {
+      "name": "comments",
+      "scope": ["comment", "punctuation.definition.comment"],
+      "settings": {
+        "foreground": "#756B5E",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "types and modifiers",
+      "scope": [
+        "storage.type",
+        "storage.modifier",
+        "keyword.control.flow",
+        "keyword.other",
+        "keyword.control"
+      ],
+      "settings": {
+        "foreground": "#EF6C00"
+      }
+    },
+    {
+      "name": "function",
+      "scope": ["entity.name.function", "keyword.type"],
+      "settings": {
+        "foreground": "#F3D566"
+      }
+    },
+    {
+      "name": "numeral type",
+      "scope": ["constant.numeric"],
+      "settings": {
+        "foreground": "#B3E493"
+      }
+    },
+    {
+      "name": "strings",
+      "scope": ["string"],
+      "settings": {
+        "foreground": "#91B56A"
+      }
+    },
+    {
+      "name": "preprocessor",
+      "scope": ["keyword.preprocessor"],
+      "settings": {
+        "foreground": "#FAA165"
+      }
+    }
+  ]
+}
