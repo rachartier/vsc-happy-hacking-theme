@@ -1,7 +1,7 @@
 {
-    "name": "HappyHacking",
+    "name": "Happy Hacking",
     "version": "1.4.0",
-    "description": "",
+    "description": "Inspired by the eponym vim's theme.",
     "repository": "https://github.com/rachartier/vsc-happy-hacking-theme",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
