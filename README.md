@@ -10,3 +10,10 @@ Inspired by ![https://gitlab.com/yorickpeterse/happy_hacking.vim](https://gitlab
 `cd %USERPROFILE%\\extensions\\ &&  git clone git@github.com:rachartier/vsc-happy-hacking-theme.git`
 
 
+## Screenshots
+
+### C
+![](img/example_c.png)
+
+### C#
+![](img/example_cs.png)
