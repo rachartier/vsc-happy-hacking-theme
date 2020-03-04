@@ -2,7 +2,7 @@
     "name": "vsc-happy-hacking-theme",
     "displayName": "Happy Hacking Theme",
     "version": "1.8.0",
-    "description": "Inspired by the eponym vim's theme.",
+    "description": "Inspired by the eponymous vim's theme.",
     "repository": "https://github.com/rachartier/vsc-happy-hacking-theme",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"

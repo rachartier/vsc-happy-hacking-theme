@@ -4,7 +4,7 @@
   "colors": {
     "editor.background": "#1E1E1E",
     "editor.foreground": "#F3F2CC",
-    "editor.lineHighlightBackground": "#404040"
+    "editor.lineHighlightBackground": "#303030"
   },
   "tokenColors": [
     {
