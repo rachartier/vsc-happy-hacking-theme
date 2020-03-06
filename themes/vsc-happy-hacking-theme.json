@@ -51,7 +51,7 @@
     },
     {
       "name": "preprocessor",
-      "scope": ["keyword.preprocessor"],
+      "scope": ["keyword.preprocessor", "meta.preprocessor"],
       "settings": {
         "foreground": "#FAA165"
       }
