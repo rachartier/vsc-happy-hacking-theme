@@ -8,6 +8,13 @@
   },
   "tokenColors": [
     {
+      "name": "readwrite attribute",
+      "scope": ["variable.other.readwrite"],
+      "settings": {
+        "foreground": "#F3F2CC"
+      }
+    },
+    {
       "name": "comments",
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
