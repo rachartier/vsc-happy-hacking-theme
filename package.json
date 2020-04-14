@@ -1,7 +1,7 @@
 {
     "name": "vsc-happy-hacking-theme",
     "displayName": "Happy Hacking Theme",
-    "version": "1.20.0",
+    "version": "1.21.0",
     "description": "Inspired by the eponymous vim's theme.",
     "repository": "https://github.com/rachartier/vsc-happy-hacking-theme",
     "scripts": {
