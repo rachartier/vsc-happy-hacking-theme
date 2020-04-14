@@ -9,7 +9,7 @@
   "tokenColors": [
     {
       "name": "readwrite attribute",
-      "scope": ["variable.other.readwrite"],
+      "scope": ["meta.interpolation"],
       "settings": {
         "foreground": "#F3F2CC"
       }
